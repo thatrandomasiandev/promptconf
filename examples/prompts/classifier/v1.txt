@@ -1,0 +1,3 @@
+Classify the following text as positive, negative, or neutral.
+
+Text: {text}

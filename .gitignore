@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+.hypothesis/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+*.npz
+.DS_Store
+.env
+*.log
+prompts/.promptconf/
+
+# LaTeX build artifacts
+docs/*.aux
+docs/*.log
+docs/*.out
+docs/*.toc
+docs/*.fls
+docs/*.fdb_latexmk
+docs/*.synctex.gz
